@@ -44,8 +44,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Saitampool&theme=vision-friendly-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitampool&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
-###
+<!-- ###
 
 <img src="https://raw.githubusercontent.com/saitampool/saitampool/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
